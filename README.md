@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
+  <b>I'm a multifaceted woman who loves discover new ways to learn and involve code in each area of the tech world</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
