@@ -22,7 +22,7 @@
   <br>
   <br>
   <a href="https://www.python.org/" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/main/Images2/python.svg" alt="C" height="40"/></code>
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/python.svg" alt="Python" height="40"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
