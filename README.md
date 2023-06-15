@@ -28,10 +28,10 @@
     <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/cpp.png" alt="Cpp" height="40"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/sql.png" alt="Sql" height="40"/></code>
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/sql.svg" alt="Sql" height="40"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/prolog.png" alt="Prolog" height="40"/></code>
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/prolog.svg" alt="Prolog" height="40"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
