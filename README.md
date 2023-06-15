@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
   <br>
   Hello, I'm Fernanda Osorio <img src="https://www.facebook.com/photo/?fbid=1601347486999377&set=a.101554510312023" width="30px" height="30px">
 </h1>
