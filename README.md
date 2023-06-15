@@ -27,6 +27,12 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/cpp.png" alt="Cpp" height="40"/></code>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/sql.png" alt="Sql" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/prolog.png" alt="Prolog" height="40"/></code>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
   </a>
@@ -120,9 +126,15 @@
   <b>Other</b>
   <br>
   <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
+ <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/git.png" alt="Git" height="40"/></code>
+ </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/postgresql.png" alt="Postgresql" height="40"/></code>
+ </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/vsc.png" alt="VSC" height="40"/></code>
+ </a>
 </p>
 
 <h2> Main Proyects <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
