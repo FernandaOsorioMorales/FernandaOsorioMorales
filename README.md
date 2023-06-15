@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   <br>
-  Hello, I'm Fernanda Osorio <img src="https://www.facebook.com/photo/?fbid=1601347486999377&set=a.101554510312023" width="30px" height="30px">
+  Hello, I'm Fernanda Osorio
 </h1>
 
 <!-- Counter -->
