@@ -12,7 +12,7 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [UNAM](https://www.fciencias.unam.mx/).
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** also I would like to learn a little more about **User Interface Design**.
+- 🌱 I’m currently focusing on **Database Manipulation** and practicing **Backend Web Development** also I would like to learn a little more about **User Interface Design**.
 - 💬 I’m looking forward to contribute to **Open Source Projects** and I'm so interested in start to work in some tech company as a intern.
 
 <h2>Tech stack</h2>
@@ -72,31 +72,6 @@
   </a>
 </p>
 
-<br>
-<br>
-
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
 <p align="center">
   <b>System & DevOps</b>
   <br>
@@ -122,23 +97,6 @@
 <br>
 <br>
 
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
- <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/git.png" alt="Git" height="40"/></code>
- </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/postgresql.png" alt="Postgresql" height="40"/></code>
- </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <code><img src="https://github.com/FernandaOsorioMorales/FernandaOsorioMorales/blob/main/Images2/vsc.png" alt="VSC" height="40"/></code>
- </a>
-</p>
-
-<h2> Main Proyects <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
-<p align="center">
 
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
